@@ -2,7 +2,7 @@
 
 Um projeto web interativo que calcula a altura mágica de uma torre baseada na soma dos primeiros n números da sequência de Fibonacci.
 
-![Preview do Projeto](preview.png) <!-- Você pode adicionar uma imagem de preview depois -->
+
 
 ## ✨ Funcionalidades
 
